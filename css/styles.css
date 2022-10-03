@@ -1,0 +1,22 @@
+body {
+  background: cornflowerblue;
+}
+h1,
+p {
+  text-align: center;
+  text-decoration: wavy;
+}
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+footer {
+  text-align: center;
+  color: antiquewhite;
+}
+footer a {
+  margin: 0 10px;
+  color: aqua;
+}
